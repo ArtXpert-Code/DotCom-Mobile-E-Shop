@@ -14,7 +14,6 @@ This repository contains the source code for the **Dotcom E** mobile shop websit
 - **HTML5**: Structure of the website.
 - **CSS3**: Styling and layout, including responsive design.
 - **PHP**: Server-side scripting for form handling and dynamic content.
-- **JavaScript**: Interactivity and client-side validation.
 
 #### Contributions:
 - This project is collaboratively developed by the ArtXpert-Code team using **GitHub** and **VS Code**. Team members contribute by working on feature branches, making pull requests, and reviewing code.
